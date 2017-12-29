@@ -1,5 +1,5 @@
 {
-  "name": "pollclash",
+  "name": "clashpoll",
   "version": "1.0.0",
   "description": "A polling app of all kinds of vote",
   "main": "index.js",
